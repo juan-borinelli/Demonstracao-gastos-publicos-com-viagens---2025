@@ -28,4 +28,4 @@ if btn:
 
 btn2 = st.button('Repositório do projeto') #botao para abrir o link do repositório do projeto
 if btn2:
-    webbrowser.open_new_tab('https://github.com/juan-borinelli/analisando-dados-do-portal-da-transparencia')
+    webbrowser.open_new_tab('https://github.com/juan-borinelli/Demonstracao-gastos-publicos-com-viagens---2025')
